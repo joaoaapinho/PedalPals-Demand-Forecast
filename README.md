@@ -38,7 +38,7 @@ $ cd PedalPals-Demand-Forecast
 $ pip install -r requirements.txt
 ```
 
-4. **Open the "Regression Project - Bike Sharing Demand Forecasting.ipynb" file in Jupyter Notebook or any other compatible IDE.**
+4. **Open the "Regression Project - Bike Sharing Demand Forecast.ipynb" file in Jupyter Notebook or any other compatible IDE.**
 
 5. **Run the code cells to see the bike sharing demand forecasting analysis.**
 
