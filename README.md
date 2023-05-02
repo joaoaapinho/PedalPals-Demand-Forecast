@@ -71,11 +71,14 @@ The dataset that was used contains a comprehensive collection of bike sharing da
 <h2> 🎯 Conclusions and Limitations </h2>
 
 <h3> Conclusions </h3>
+
 The application of machine learning models has provided valuable insights for addressing the problem of forecasting bike rental demand.
+
 
 - **📊 Models' Performance Results:**
 
-Through **Train & Test Split Validation:
+Through **Train & Test Split Validation:**
+
 
 **MAE:**
 
@@ -95,7 +98,9 @@ Through **Train & Test Split Validation:
 | --- | --- | --- | --- | --- | --- |
 | 0.57 | 0.57 | 0.68 | 0.86 |  0.88 | 0.85 |
 
+
 Through **K-Fold Cross Validation**:
+
 
 **MAE:**
 
@@ -109,20 +114,20 @@ Through **K-Fold Cross Validation**:
 | --- | --- | --- | --- | --- | --- |
 | 9843.35 | 10448.84 | 6337.92 | 3542.45 | 2771.74 | 3636.73 |
 
-
 **R-Squared:**
 
 | Linear Regression | Stochastic Gradient Descent |Decision Tree Regressor | Random Forest Regressor | XGBoost | MLP Regression |
 | --- | --- | --- | --- | --- | --- |
 | 0.57 | 0.55 | 0.72 | 0.85 | 0.88 | 0.84 |
 
+
 - **🏆 Best Model:** 
 The best model in this case was the **XGBoost regressor**. Theoretically speaking, XGBoost is known for its ability to handle a wide range of data types and relationships within the dataset. It is a method of **ensemble learning that integrates numerous weak models (decision trees) to produce a more accurate and robust model**. By iteratively adding new trees to the ensemble and minimizing the loss function by optimizing its parameters through gradient boosting, this method allows the model to **capture complex, non-linear patterns in the data and enhance its prediction performance.**
 
-- **🥈 Other Models:**
-In comparison, other models such as **Linear Regression and MLP Regression**, are based on **simpler assumptions regarding variable relationships**. Linear Regression is based on the assumption of a linear relationship between the features and the target variable, which may not necessarily be true in real-world datasets. MLP Regression, while more flexible than Linear Regression, is dependent on neural network design and may require substantial tuning to obtain good results.
 
-Tree-based models, on the other hand, such as **Decision Tree Regressor and Random Forest Regressor**, offer the benefit of managing non-linear connections and feature interactions organically. Nevertheless, Decision Trees are prone to overfitting, whereas **Random Forest**, while more resilient, **still fell short of XGBoost in terms of prediction performance**.
+- **🥈 Other Models:**
+In comparison, other models such as **Linear Regression and MLP Regression**, are based on **simpler assumptions regarding variable relationships**. Linear Regression is based on the assumption of a linear relationship between the features and the target variable, which may not necessarily be true in real-world datasets. MLP Regression, while more flexible than Linear Regression, is dependent on neural network design and may require substantial tuning to obtain good results. Tree-based models, on the other hand, such as **Decision Tree Regressor and Random Forest Regressor**, offer the benefit of managing non-linear connections and feature interactions organically. Nevertheless, Decision Trees are prone to overfitting, whereas **Random Forest**, while more resilient, **still fell short of XGBoost in terms of prediction performance**.
+
 
 - **🛫 Business Results:**
 While being capable of predicting the **total demand for Q4 of 2012: 317328 rides**, PedalPals managers gained valuable information that contributed towards their decision to internationalize.
@@ -130,6 +135,7 @@ While being capable of predicting the **total demand for Q4 of 2012: 317328 ride
 By estimating that they would capture 5% of these rides immediatly upon expansion, other important analysis such as revenues planning, required equipment investment, among others will also possible.
 
 Notwithstanding the predicted **negative trend shown in US shared bike demand in Q4 of 2012**, this is a reasonable evolution (that also happened in the previous year) since with cooler temperatures and probably rain, people tend to ride less bikes. In any case, the fact that the predicted ride threshold of 300,000 rides was met gives the firm confidence that its internationalization in Q4 will be data-driven and well-supported.
+
 
 
 <h3> Limitations </h3>
