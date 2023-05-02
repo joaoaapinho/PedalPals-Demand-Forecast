@@ -77,6 +77,7 @@ The application of machine learning models has provided valuable insights for ad
 
 <h4>📊 Models' Performance Results:</h4>
 
+
 Through **Train & Test Split Validation:**
 
 
@@ -97,6 +98,7 @@ Through **Train & Test Split Validation:**
 | Linear Regression | Stochastic Gradient Descent |Decision Tree Regressor | Random Forest Regressor | XGBoost | MLP Regression |
 | --- | --- | --- | --- | --- | --- |
 | 0.57 | 0.57 | 0.68 | 0.86 |  0.88 | 0.85 |
+
 
 
 Through **K-Fold Cross Validation**:
