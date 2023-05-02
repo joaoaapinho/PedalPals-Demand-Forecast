@@ -145,7 +145,6 @@ By estimating that they would capture 5% of these rides immediatly upon expansio
 Notwithstanding the predicted **negative trend shown in US shared bike demand in Q4 of 2012**, this is a reasonable evolution (that also happened in the previous year) since with cooler temperatures and probably rain, people tend to ride less bikes. In any case, the fact that the predicted ride threshold of 300,000 rides was met gives the firm confidence that its internationalization in Q4 will be data-driven and well-supported.
 
 
-
 <h3> Limitations </h3>
 While this project gave significant insights on anticipating bike rental demand to make an important internationalization decision, there are certain limitations that should be acknowledged:
 
