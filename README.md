@@ -121,11 +121,11 @@ Through **K-Fold Cross Validation**:
 | 0.57 | 0.55 | 0.72 | 0.85 | 0.88 | 0.84 |
 
 
-- **🏆 Best Model:** 
+<h3>🏆 Best Model:</h3>
 The best model in this case was the **XGBoost regressor**. Theoretically speaking, XGBoost is known for its ability to handle a wide range of data types and relationships within the dataset. It is a method of **ensemble learning that integrates numerous weak models (decision trees) to produce a more accurate and robust model**. By iteratively adding new trees to the ensemble and minimizing the loss function by optimizing its parameters through gradient boosting, this method allows the model to **capture complex, non-linear patterns in the data and enhance its prediction performance.**
 
 
-- **🥈 Other Models:**
+<h3>🥈 Other Models:</h3>
 In comparison, other models such as **Linear Regression and MLP Regression**, are based on **simpler assumptions regarding variable relationships**. Linear Regression is based on the assumption of a linear relationship between the features and the target variable, which may not necessarily be true in real-world datasets. MLP Regression, while more flexible than Linear Regression, is dependent on neural network design and may require substantial tuning to obtain good results. Tree-based models, on the other hand, such as **Decision Tree Regressor and Random Forest Regressor**, offer the benefit of managing non-linear connections and feature interactions organically. Nevertheless, Decision Trees are prone to overfitting, whereas **Random Forest**, while more resilient, **still fell short of XGBoost in terms of prediction performance**.
 
 
