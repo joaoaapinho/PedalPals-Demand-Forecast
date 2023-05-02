@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/114337279/235669152-78e42812-ce23-4d29-9c97-431d8873e817.png" alt="Small logo" width="30%">
+  <img src="https://user-images.githubusercontent.com/114337279/235669152-78e42812-ce23-4d29-9c97-431d8873e817.png" alt="Small logo" width="20%">
 </p>
 <h3 align="center">PedalPals: Bike Sharing Demand Forecasting</h3>
 
