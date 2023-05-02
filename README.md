@@ -21,6 +21,28 @@ The project goal is to forecast whether the **total market demand for bike renta
 
 Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Plotly.
 
+<h2> 🚀 Instructions: </h2>
+
+1. **Clone the repository or download the source code.**
+```bash
+$ git clone https://github.com/joaoaapinho/PedalPals-Demand-Forecast.git
+```
+
+2. **Open the terminal and navigate to the project directory.**
+```bash
+$ cd PedalPals-Demand-Forecast
+```
+
+3. **Install the required packages from the requirements.txt file.**
+```bash
+$ pip install -r requirements.txt
+```
+
+4. **Open the "Regression Project - Bike Sharing Demand Forecasting.ipynb" file in Jupyter Notebook or any other compatible IDE.**
+
+5. **Run the code cells to see the bike sharing demand forecasting analysis.**
+
+
 <h2> 🧮 Dataset </h2>
 
 The dataset that was used contains a comprehensive collection of bike sharing data from 2011 and an estimation for the first three quarters of 2012 that captures a variety of characteristics that impact bike utilization.
