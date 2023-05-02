@@ -51,7 +51,7 @@ The dataset that was used contains a comprehensive collection of bike sharing da
 
 <h2> 🤖 Main Models and Techniques </h2>
 
-- Linear Regression
+- **Linear Regression
 - Stochastic Gradient Descent Regression
 - Decision Tree Regression
 - Random Forest Regression
@@ -64,7 +64,7 @@ The dataset that was used contains a comprehensive collection of bike sharing da
 - Polynomial Feature Transformation
 - One-Hot Encoding using OrdinalEncoder
 - Statistical Analysis using f_classif
-- Model Evaluation using Mean Absolute Error, Mean Squared Error, R-squared Score
+- Model Evaluation using Mean Absolute Error, Mean Squared Error, R-squared Score**
 
 **Note:** For a detailed description of the methodology and the reasoning behind the decisions made, please refer to the accompanying Jupyter Notebook.
 
