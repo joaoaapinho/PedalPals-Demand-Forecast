@@ -134,6 +134,10 @@ In comparison, other models such as **Linear Regression and MLP Regression**, a
 
 <h4> 🛫 Business Results:</h4>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/114337279/235699818-1c3f3df1-0083-4779-aad7-af7503351194.png" alt="Small logo" width="80%">
+</p>
+
 While being capable of predicting the **total demand for Q4 of 2012: 317328 rides**, PedalPals managers gained valuable information that contributed towards their decision to internationalize.
 
 By estimating that they would capture 5% of these rides immediatly upon expansion, other important analysis such as revenues planning, required equipment investment, among others will also possible.
