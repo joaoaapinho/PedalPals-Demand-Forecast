@@ -25,7 +25,9 @@ Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn, Plotly.
 
 The dataset that was used contains a comprehensive collection of bike sharing data from 2011 and an estimation for the first three quarters of 2012 that captures a variety of characteristics that impact bike utilization.
 
-``` ***Dataset Attribute Information:***
+## Dataset Attribute Information
+
+This bike sharing dataset contains the following variables:
 
 - `instant`: Record index
 - `dteday`: Record date
@@ -48,4 +50,3 @@ The dataset that was used contains a comprehensive collection of bike sharing da
 - `casual`: Count of casual users
 - `registered`: Count of registered users
 - `cnt`: Count of total rental bikes (including both casual and registered)
-```
